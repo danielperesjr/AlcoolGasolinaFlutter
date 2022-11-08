@@ -81,7 +81,7 @@ class _HomeState extends State<Home> {
               TextField(
                 keyboardType: TextInputType.number,
                 decoration: InputDecoration(
-                    labelText: "Preço do Gasolina, exemplo: 4.69"
+                    labelText: "Preço da Gasolina, exemplo: 4.69"
                 ),
                 style: TextStyle(
                     fontSize: 22
